@@ -1,3 +1,24 @@
+{
+  "name": "16.3Webpack-conf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "start": "webpack ./app.js app.bundle.js"
-    }
+    "start": "webpack ./app.js app.bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LukaszW007/16.3Webpack-conf.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LukaszW007/16.3Webpack-conf/issues"
+  },
+  "homepage": "https://github.com/LukaszW007/16.3Webpack-conf#readme",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  }
+}
